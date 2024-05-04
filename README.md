@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a frontend Engineer at 1lyoptions <br>👋 Hello<br>💬 Ask me anything about Web Development and other technology<br>⚡ Fun fact : i use tab more than space<br><br>
+🔭 I’m currently working as a <b>frontend Engineer at 1lyoptions</b> <br>👋 Hello<br>💬 Ask me anything about Web Development and other technology<br>⚡ Fun fact : i use tab more than space<br><br>
 
 
 ## 🌐 Socials:

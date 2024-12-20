@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a <b>Software developer at Engaze</b> <br>👋 Hello<br>💬 Ask me anything about Web Development and other technology<br>⚡ Fun fact : i use tab more than space<br><br>
+🔭 I’m currently working as a <b>Software developer at Userology</b> <br>👋 Hello<br>💬 Ask me anything about Web Development and other technology<br>⚡ Fun fact : i use tab more than space<br><br>
 
 
 ## 🌐 Socials:

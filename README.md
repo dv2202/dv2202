@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hello<br>🔭 I’m currently working as a <b>Frontend developer at Yourtoken</b>💬 Ask me anything about Web Development and other technology<br>⚡ Fun fact : i use tab more than space<br><br>
+<br>👋 Hello<br>🔭 I’m currently working as a <b>Software developer at Yourtoken</b><br>⚡ Fun fact : i use tab more than space<br><br>
 
 
 ## 🌐 Socials:

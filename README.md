@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hello<br>🔭 I’m currently working as a <b>Software developer at ForestAi</b>
+<br>👋 Hello<br> I’m currently working as a <b>Software developer at ForestAi</b>
 
 
 ## 🌐 Socials:

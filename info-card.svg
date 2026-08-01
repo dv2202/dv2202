@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 232" width="490" height="232">
+<rect width="490" height="232" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<style>
+@keyframes row0{0%{opacity:0;transform:translateX(8px)}100%{opacity:1;transform:translateX(0)}}
+.row0{animation:row0 0.5s ease-out 0.0s both}
+@keyframes row1{0%{opacity:0;transform:translateX(8px)}100%{opacity:1;transform:translateX(0)}}
+.row1{animation:row1 0.5s ease-out 0.12s both}
+@keyframes row2{0%{opacity:0;transform:translateX(8px)}100%{opacity:1;transform:translateX(0)}}
+.row2{animation:row2 0.5s ease-out 0.24s both}
+@keyframes row3{0%{opacity:0;transform:translateX(8px)}100%{opacity:1;transform:translateX(0)}}
+.row3{animation:row3 0.5s ease-out 0.36s both}
+@keyframes row4{0%{opacity:0;transform:translateX(8px)}100%{opacity:1;transform:translateX(0)}}
+.row4{animation:row4 0.5s ease-out 0.48s both}
+@keyframes titleFade{0%{opacity:0}100%{opacity:1}}
+.title{animation:titleFade 0.4s ease-out both}
+</style>
+<text x="20" y="42" font-family="Consolas,Monaco,monospace" font-size="15" font-weight="bold" fill="#58a6ff" class="title">~/devansh@github</text>
+<line x1="20" y1="52" x2="470" y2="52" stroke="#30363d" stroke-width="1"/>
+<text x="20" y="78" font-family="Consolas,Monaco,monospace" font-size="13" fill="#58a6ff" class="row0">Title:</text>
+<text x="100" y="78" font-family="Consolas,Monaco,monospace" font-size="13" fill="#c9d1d9" class="row0">Software Developer @ ForestAi</text>
+<text x="20" y="110" font-family="Consolas,Monaco,monospace" font-size="13" fill="#f0883e" class="row1">Now:</text>
+<text x="100" y="110" font-family="Consolas,Monaco,monospace" font-size="13" fill="#c9d1d9" class="row1">Building with C++, Python & Web</text>
+<text x="20" y="142" font-family="Consolas,Monaco,monospace" font-size="13" fill="#8b949e" class="row2">Prev:</text>
+<text x="100" y="142" font-family="Consolas,Monaco,monospace" font-size="13" fill="#c9d1d9" class="row2">Open Source Contributor</text>
+<text x="20" y="174" font-family="Consolas,Monaco,monospace" font-size="13" fill="#3fb950" class="row3">Stack:</text>
+<text x="100" y="174" font-family="Consolas,Monaco,monospace" font-size="13" fill="#c9d1d9" class="row3">C/C++  ·  React  ·  Tailwind  ·  MongoDB</text>
+<text x="20" y="206" font-family="Consolas,Monaco,monospace" font-size="13" fill="#bc8cff" class="row4">Highlights:</text>
+<text x="100" y="206" font-family="Consolas,Monaco,monospace" font-size="13" fill="#c9d1d9" class="row4">9k+ contributions & counting</text>
+</svg>

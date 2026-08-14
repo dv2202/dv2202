@@ -4,8 +4,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./about-card.svg" width="430" alt="Devansh about card" /></td>
-<td valign="top"><img src="./stack-card.svg" width="430" alt="Devansh stack card" /></td>
+<td valign="top"><img src="./about-card.svg" width="430" alt="Devansh's about card" /></td>
+<td valign="top"><img src="./stack-card.svg" width="430" alt="Devansh's stack card" /></td>
 </tr>
 </table>
 

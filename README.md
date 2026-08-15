@@ -12,7 +12,7 @@
 <br>
 <h3><code>devansh@github ~ $ ./connect.sh</code></h3>
 
-<p><b>Software Developer · ForestAi</b></p>
+<p><b>Software Developer · ForestAI</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devansh_vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-vishwakarma-08ba06226)
 [![Twitter](https://img.shields.io/badge/Twitter-devanshkumar_21-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devanshkumar_21)

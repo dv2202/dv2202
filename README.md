@@ -10,7 +10,7 @@
 </table>
 
 ### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dv2202)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dv2202)](https://git.io/streak-stats) 
 
 <br>
 <h3><code>devansh@github ~ $ ./connect.sh</code></h3>

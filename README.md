@@ -17,7 +17,7 @@
 
 <p><b>Software Developer · ForestAI</b></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devansh_vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-vishwakarma-08ba06226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devansh_vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/devansh-v)
 [![Twitter](https://img.shields.io/badge/Twitter-devanshkumar_21-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devanshkumar_21)
 
 <br>
